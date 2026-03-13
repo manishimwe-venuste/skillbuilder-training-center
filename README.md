@@ -22,7 +22,7 @@ I like creating management systems, web platforms, and solving real problems wit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind css ,js,react,nodejs,express,php,mysql,sqlite,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mysql,sqlite,git,github,vscode" />
 
 </div>
 
