@@ -22,7 +22,7 @@ I like creating management systems, web platforms, and solving real problems wit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind css ,js,react,nodejs,express,php,mysql,sqlite,git,github,vscode" />
 
 </div>
 
@@ -41,10 +41,8 @@ I like creating management systems, web platforms, and solving real problems wit
 
 ## 🚀 Projects I Have Built
 
-* 📚 **Library Management System**
 * 🚗 **Car Washing Sales Management System**
 * 📦 **Stock Inventory Management System**
-* 🏠 **Real Estate Website (RealNest)**
 * 🎓 **SkillBuilder Training Center System**
 
 ---
@@ -60,7 +58,7 @@ I like creating management systems, web platforms, and solving real problems wit
 
 ## 📫 Connect With Me
 
-💻 GitHub: https://github.com/yourusername
+💻 GitHub: https://github.com/manishimwe-venuste
 
 ---
 
